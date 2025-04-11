@@ -45,7 +45,7 @@ Sistem ticketing berbasis Laravel yang siap pakai dengan fitur role, seeder, dan
     Email	                Password	            Role
     admin@admin.com	        password123	            admin
     agent@agent.com	        password123	            agent
-    (10 user random)	    password123	            user
+    (10 user random)	   password123	           user
     ini bisa di kustom
 
 
